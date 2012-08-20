@@ -1,0 +1,12 @@
+---
+layout: post
+title: Hello World Post
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 Aug 2012 - Linz
+
+This is the year 2012.
+
+And this is a "Hello World" post.
